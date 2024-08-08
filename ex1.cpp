@@ -3,7 +3,9 @@
 #include <math.h>
 using namespace std;
 
-
+Calculator::Calculator()
+{
+}
 
 float Calculator::add(float a, float b)
 {
